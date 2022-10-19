@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    
+    <title>A Origem dos Jogos</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <center><img id="image1" src="Marcos/logo.jpg"></center>
+    
+    <center><h1>A Origem dos Jogos</h1></center>
+
+    <center>Tudo começou nos anos 50, década em que a tecnologia estava se desenvolvendo e criando vários itens que conhecemos hoje em dia.</center> 
+    <center>No início, os jogos eletrônicos eram bastante simples, com gráficos básicos e sem som. William A. Higinbotham criou um dos primeiros videogames, Tennis for Two (“tênis para dois”), em 1958.</center>
+    <center>Mas, tudo começou nos anos 70 com os primeiros fliperamas. E o primeiro jogo de fliperama foi Computer Space em 1971. Logo após vieram outros como Pong, Pac Man, Space Invaders e muitos outros. </center>
+    
+
+</body>
+</html> 
