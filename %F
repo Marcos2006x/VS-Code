@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    
+    <title>A Origem dos Jogos</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <center><img id="image1" src="Marcos/logo.jpg"></center>
+    
+    <center><h1>A Origem dos Jogos</h1></center>
+
+    <center>Tudo começou nos anos 50, década em que a tecnologia estava se desenvolvendo e criando vários itens que conhecemos hoje em dia.</center> 
+    <center>No início, os jogos eletrônicos eram bastante simples, com gráficos básicos e sem som. William A. Higinbotham criou um dos primeiros videogames, Tennis for Two (“tênis para dois”), em 1958.</center>
+    <center>Mas, tudo começou nos anos 70 com os primeiros fliperamas. E o primeiro jogo de fliperama foi Computer Space em 1971. Logo após vieram outros como Pong, Pac Man, Space Invaders e muitos outros. </center>
+    <center>Em 1981 a Nintendo lançou o Donkey Kong ou DK, o enredo se consistia no herói chamado-se Jumpman. Jumpman é um carpinteiro baíxinho. deveria salvar sua namorada Pauline das garras de um gorila raivoso. Para isso era preciso que o carpinteiro vencesse obstáculos, saltasse por cipós, atravessasse rios até encontrá-la e resgatá-la. </center>
+    <center>Percebendo o grande interesse do público, muitas outras empresas começaram a desenvolver jogos eletrônicos. Elas melhoraram não só a qualidade do som e das imagens, mas também a tecnologia usada para rodar os games.</center>
+    <center>A internet eliminou a necessidade de os jogadores estarem no mesmo espaço físico. Hoje em dia, é possível jogar com pessoas localizadas em qualquer parte do mundo. Uma modalidade de videogame que vem se popularizando no início do século XXI são os jogos de realidade virtual. Neles, óculos especiais criam simulações em 3D, dando ao jogador a sensação de estar em uma situação real.</center>
+
+</body>
+</html> 
